@@ -1,2 +1,2 @@
 # my-ecommerce
-a demo ecommerce tenplate with relative functionality
+a demo ecommerce template with relative functionality
